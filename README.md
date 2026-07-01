@@ -1,15 +1,22 @@
 👋 Hi there, I'm Dickson Tladi
 
 🎓 Currently Learning: Software engineering, Cloud and application architecture
+
 💼 Aspiring: Cloud architect | Data Engineer
+
 💡 Passionate About: Building scalable applications, cloud technologies, and writing clean, maintainable code.
 
 
 🛠 Tech Stack
+
 💻 Languages- C++, Python, C#, React Native, Typescript
+
 🎨 Frontend- React, HTML5, CSS3
+
 ⚙️ Backend- Python, Node.js
+
 🗄️ Databases- SQL,MongoDB, Supabase, Firebase
+
 ☁️ Cloud & DevOps- Linux basics, Git
 
 🚀 Featured Projects
