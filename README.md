@@ -1,18 +1,51 @@
-Hey, I'm Dickson Tladi 👋
-Aspiring Cloud Architect & Data Engineer
-Building scalable architecture, cloud-native systems, and data pipelines — from Johannesburg, ZA
+👋 Hi there, I'm Dickson Tladi
 
-About Me
-I'm a passionate technologist pursuing an Advanced Diploma in Business Information Technology at the University of Johannesburg, with a vision to specialise in cloud architecture and data engineering.
+🎓 Currently Learning: Software engineering, Cloud and application architecture
 
-☁️ Azure Certified — AZ-900 (Fundamentals) & AZ-204 (Developer Associate)
-🏗️ Designing cloud-native solutions and full-stack applications
-🤖 Leveraging AI to automate complex workflows
-📊 Building robust data pipelines and scalable backend systems
-🎯 Goal: Become a Cloud Architect & Data Engineer at scale
+💼 Aspiring: Cloud architect | Data Engineer
 
-🏅 Certifications
-BadgeCertificationIssuer☁️Azure Fundamentals (AZ-900)
-Microsoft🚀Azure Developer Associate (AZ-204)Microsoft
+💡 Passionate About: Building scalable applications, cloud technologies, and writing clean, maintainable code.
 
-See my portfolio here: https://portfolio-builder--diggy2098.replit.app
+
+🛠 Tech Stack
+
+💻 Languages- C++, Python, C#, React Native, Typescript
+
+🎨 Frontend- React, HTML5, CSS3
+
+⚙️ Backend- Python, Node.js
+
+🗄️ Databases- SQL,MongoDB, Supabase, Firebase
+
+☁️ Cloud & DevOps- Linux basics, Git
+
+
+🚀 Featured Projects
+
+🏦 Finance Naviagtion System (TypeScript)
+A finance prediction tool to help user to see how long witll it take to reach their financial goals. Show age, potential amount and uses AI for all key functions. 
+🔗 Repo: https://github.com/Tladi95/Finance-Navigator-2
+
+
+🎬 Forex pilot (Python, BootStrap)
+Built a Flask‑based trading platform that delivers real‑time forex signals for EUR/USD and
+USD/JPY.
+🔗 Repo: https://github.com/Tladi95/ForexPilot
+
+
+🤖 Sentiment analysis (TypeScript)
+Tool to analyse sentiments from variouse platforms and give user clear feedback on their required sentiments.
+🔗 Repo: https://github.com/Tladi95/Sentiment-Insight-Dashboard
+
+
+📜 Certifications
+* Microsoft Certified: Azure Fundamentals (AZ-900) 
+* Microsoft Certified: Azure Developer Associate (AZ-204) 
+* Cousera- Professional development, Google AI Essentials Specialization, Artificial Intelligence (AI) Bootcamp 
+
+
+📫 Contact Me
+📧 Email: dicksontladi@gmail.com
+💼 LinkedIn: www.linkedin.com/in/dickson-tladi-56a974340
+
+
